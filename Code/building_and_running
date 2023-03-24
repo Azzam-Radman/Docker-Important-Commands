@@ -1,0 +1,2 @@
+docker build -t <image_name> .
+docker run -p <port_number_1>:<port_number_2> <image_name>
